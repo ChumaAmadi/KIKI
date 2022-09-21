@@ -483,3 +483,11 @@
   margin: 0 auto;
   text-shadow: 2px 1px 2px #ffffff;
 }
+
+.bigText6 {
+  color: rgb(255, 255, 255);
+  letter-spacing: 1px;
+  font-size: 1500%;
+  margin: 0 auto;
+  text-shadow: 2px 1px 2px #ffffff;
+}
